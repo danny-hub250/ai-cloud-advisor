@@ -1,4 +1,4 @@
-# ☁️ AI Public Cloud Advisor
+☁️ AI Public Cloud Advisor
 
 Azure vs AWS 클라우드 추천 AI 어드바이저 — LangChain + LangGraph + RAG + FastAPI + Streamlit
 
@@ -11,6 +11,9 @@ Azure vs AWS 클라우드 추천 AI 어드바이저 — LangChain + LangGraph + 
 단순한 LLM 호출이 아닌 **4단계 멀티에이전트 파이프라인**으로 동작합니다.
 
 ---
+
+<img width="650" height="650" alt="image" src="https://github.com/user-attachments/assets/ea3ee86b-3dab-45da-86a7-aa0682cf0330" />
+
 
 ## 소스 구조
 
