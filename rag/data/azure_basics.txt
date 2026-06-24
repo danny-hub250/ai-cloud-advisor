@@ -1,0 +1,4 @@
+Azure 기본: 글로벌 리전, 리소스 그룹, VNet/NSG, Storage(Blob), App Service, AKS, Cosmos DB, Azure SQL, Front Door, CDN.
+비용 최적화: 예약 인스턴스/세이빙 플랜, 자동 스케일링, 스토리지 수명주기 관리, 스팟 VM.
+보안/컴플라이언스: Azure Policy, Defender for Cloud, Key Vault, Private Link.
+적합 예: M365/Power Platform 연계, 하이브리드(Arc/ExpressRoute), 네이티브 거버넌스, AzureOpenAI를 활용한 챗봇 및 Agent

@@ -1,0 +1,4 @@
+AWS 기본: 글로벌 리전, VPC/Security Group, S3, EC2, ECS/EKS, RDS/Aurora, DynamoDB, CloudFront, ALB/NLB.
+비용 최적화: Savings Plans/RI, Auto Scaling, S3 Storage Class, Spot Instances.
+보안/컴플라이언스: IAM, KMS, GuardDuty, Control Tower, PrivateLink.
+적합 예: 오픈소스 생태계, ISV 마켓플레이스, 다양한 매니지드 서비스, 글로벌 커버리지.
